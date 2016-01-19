@@ -1,0 +1,13 @@
+name: Bones Site
+version: 1.0.0
+description: "The **Bones** skeleton provides a Grav install with sample data so you can see some of the theme's included features in action!"
+icon: cubes
+author:
+  name: SmartGravity
+  email: info@smartgravity.com
+  url: http://www.smartgravity.com
+homepage: https://github.com/smartgravity/grav-skeleton-bones-site
+demo: http://demos.smartgravity.com/grav-bones
+keywords: bones, theme, foundation, foundation6, core, simple, responsive, basic, SCSS
+bugs: https://github.com/smartgravity/grav-skeleton-bones-site/issues
+license: MIT
