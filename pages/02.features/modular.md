@@ -1,6 +1,8 @@
 ---
 title: Features
 body_classes: modular
+foundation_sticky_js: enabled
+foundation_magellan_js: enabled
 featherlight:
   enabled: true
   active: true
