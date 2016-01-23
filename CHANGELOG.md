@@ -1,3 +1,11 @@
+# v0.3.0
+## 01/23/2016
+
+1. [](#improvement)
+    * Updated to include new Bones v0.3.0 theme release
+    * Removed Random Plugin from dependencies
+    * Added Admin Plugin to dependencies
+
 # v0.2.0
 ## 01/20/2016
 
