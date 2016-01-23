@@ -27,10 +27,6 @@ git:
         url: https://github.com/getgrav/grav-plugin-problems
         path: user/plugins/problems
         branch: master
-    random:
-        url: https://github.com/getgrav/grav-plugin-random
-        path: user/plugins/random
-        branch: master
     relatedpages:
         url: https://github.com/getgrav/grav-plugin-relatedpages
         path: user/plugins/relatedpages
@@ -46,6 +42,10 @@ git:
     taxonomylist:
         url: https://github.com/getgrav/grav-plugin-taxonomylist
         path: user/plugins/taxonomylist
+        branch: master
+    admin:
+        url: https://github.com/getgrav/grav-plugin-admin
+        path: user/plugins/admin
         branch: master
     bones:
         url: https://github.com/smartgravity/grav-theme-bones
@@ -80,10 +80,6 @@ links:
         src: grav-plugin-problems
         path: user/plugins/problems
         scm: github
-    random:
-        src: grav-plugin-random
-        path: user/plugins/random
-        scm: github
     relatedpages:
         src: grav-plugin-relatedpages
         path: user/plugins/relatedpages
@@ -99,6 +95,10 @@ links:
     taxonomylist:
         src: grav-plugin-taxonomylist
         path: user/plugins/taxonomylist
+        scm: github
+    admin:
+        src: grav-plugin-admin
+        path: user/plugins/admin
         scm: github
     bones:
         src: grav-theme-bones
