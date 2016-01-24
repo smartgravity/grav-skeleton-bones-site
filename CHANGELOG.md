@@ -1,5 +1,15 @@
+# v0.3.1
+## 1/24/2016
+
+1. [](#improvement)
+    * Updated to include new Bones v0.3.1 theme release
+    * Better separated JS and CSS Assets
+2. [](#bugfix)
+    * Removed unnecessary Foundation index.html file
+    * Fixed fallback styling for non-fontawesome mobilemenu icon
+
 # v0.3.0
-## 01/23/2016
+## 1/23/2016
 
 1. [](#improvement)
     * Updated to include new Bones v0.3.0 theme release
@@ -7,7 +17,7 @@
     * Added Admin Plugin to dependencies
 
 # v0.2.0
-## 01/20/2016
+## 1/20/2016
 
 1. [](#improvement)
 		* Updated to include new Bones v0.2.0 theme release
@@ -17,7 +27,7 @@
 
 
 # v0.1.0
-## 01/19/2016
+## 1/19/2016
 
 1. [](#new)
 		* Initial Release
